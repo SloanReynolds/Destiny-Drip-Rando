@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DapperBungled", "DapperBungled\DapperBungled.csproj", "{9FE191F5-FF8E-4FAB-ADB5-CAA1432F179C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DapperDestiny", "DapperDestiny\DapperDestiny.csproj", "{18416A3F-ABE2-43EC-9268-9EDFCBFBDFC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FE191F5-FF8E-4FAB-ADB5-CAA1432F179C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE191F5-FF8E-4FAB-ADB5-CAA1432F179C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE191F5-FF8E-4FAB-ADB5-CAA1432F179C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE191F5-FF8E-4FAB-ADB5-CAA1432F179C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18416A3F-ABE2-43EC-9268-9EDFCBFBDFC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18416A3F-ABE2-43EC-9268-9EDFCBFBDFC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18416A3F-ABE2-43EC-9268-9EDFCBFBDFC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18416A3F-ABE2-43EC-9268-9EDFCBFBDFC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D812FEA-C993-4205-B03A-349F584D3F50}
+	EndGlobalSection
+EndGlobal
